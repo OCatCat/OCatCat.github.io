@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    touch-action: manipulation;
+}
+
+img {
+    position: fixed;
+}
+
+/*location of each buttons*/
+#flap {
+    left: 1252px;
+    top: 266px;
+}
